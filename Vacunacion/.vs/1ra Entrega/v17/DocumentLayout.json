@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\edgar\\Desktop\\FCFM\\Semestre 1\\1ra Entrega - copia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E19D7B65-B310-44C8-8F5A-E67CDDEA8901}|1ra Entrega.vcxproj|D:\\edgar\\Desktop\\FCFM\\Semestre 1\\1ra Entrega - copia\\1ra Entrega.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u00A1 *(  \u0022     ",
+      "RelativeMoniker": "D:0:0:{E19D7B65-B310-44C8-8F5A-E67CDDEA8901}|1ra Entrega.vcxproj|solutionrelative:1ra Entrega.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u00A1 *(  \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E19D7B65-B310-44C8-8F5A-E67CDDEA8901}|1ra Entrega.vcxproj|D:\\edgar\\Desktop\\FCFM\\Semestre 1\\1ra Entrega - copia\\1ra Entrega.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E19D7B65-B310-44C8-8F5A-E67CDDEA8901}|1ra Entrega.vcxproj|solutionrelative:1ra Entrega.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1ra Entrega.rc - IDD_DIALOG1 - Dialog",
+              "DocumentMoniker": "D:\\edgar\\Desktop\\FCFM\\Semestre 1\\1ra Entrega - copia\\1ra Entrega.rc",
+              "RelativeDocumentMoniker": "1ra Entrega.rc",
+              "ToolTip": "D:\\edgar\\Desktop\\FCFM\\Semestre 1\\1ra Entrega - copia\\1ra Entrega.rc - IDD_DIALOG1 - Dialog",
+              "RelativeToolTip": "1ra Entrega.rc - IDD_DIALOG1 - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-04T17:26:46.25Z",
+              "EditorCaption": " - IDD_DIALOG1 - Dialog"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1ra Entrega.cpp",
+              "DocumentMoniker": "D:\\edgar\\Desktop\\FCFM\\Semestre 1\\1ra Entrega - copia\\1ra Entrega.cpp",
+              "RelativeDocumentMoniker": "1ra Entrega.cpp",
+              "ToolTip": "D:\\edgar\\Desktop\\FCFM\\Semestre 1\\1ra Entrega - copia\\1ra Entrega.cpp",
+              "RelativeToolTip": "1ra Entrega.cpp",
+              "ViewState": "AQIAAH4CAAAAAAAAAAAtwAMEAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-04T16:36:33.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

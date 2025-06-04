@@ -1,0 +1,91 @@
+﻿  1ra Entrega.cpp
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(559,38): warning C4244: 'return': conversión de 'LRESULT' a 'BOOL'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(678,38): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(696,31): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(704,41): warning C4244: 'return': conversión de 'LRESULT' a 'BOOL'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(707,38): warning C4244: 'return': conversión de 'LRESULT' a 'BOOL'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(658,19): warning C4101: 'buffer': variable local sin referencia
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(802,34): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(838,38): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(856,31): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(870,41): warning C4244: 'return': conversión de 'LRESULT' a 'BOOL'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(873,38): warning C4244: 'return': conversión de 'LRESULT' a 'BOOL'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(785,19): warning C4101: 'buffer': variable local sin referencia
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(816,19): warning C4101: 'buffer': variable local sin referencia
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(930,34): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(947,27): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(957,38): warning C4244: 'return': conversión de 'LRESULT' a 'BOOL'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(913,19): warning C4101: 'buffer': variable local sin referencia
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(1009,30): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(1043,38): warning C4244: 'return': conversión de 'LRESULT' a 'BOOL'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(1286,38): warning C4244: 'return': conversión de 'LRESULT' a 'BOOL'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(1323,38): warning C4244: 'return': conversión de 'LRESULT' a 'BOOL'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(1324,9): warning C4065: la instrucción switch contiene etiquetas 'default' pero no etiquetas 'case'
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(1380,34): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(1406,26): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(1424,31): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(1439,38): warning C4244: 'return': conversión de 'LRESULT' a 'BOOL'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(1363,19): warning C4101: 'buffer': variable local sin referencia
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(1498,34): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(1516,26): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(1554,34): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(1604,38): warning C4244: 'return': conversión de 'LRESULT' a 'BOOL'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(1605,9): warning C4065: la instrucción switch contiene etiquetas 'default' pero no etiquetas 'case'
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(1665,38): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(1790,31): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(1814,41): warning C4244: 'return': conversión de 'LRESULT' a 'BOOL'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(1817,38): warning C4244: 'return': conversión de 'LRESULT' a 'BOOL'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(1644,19): warning C4101: 'buffer': variable local sin referencia
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(1874,34): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(1891,27): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(1897,38): warning C4244: 'return': conversión de 'LRESULT' a 'BOOL'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(1857,19): warning C4101: 'buffer': variable local sin referencia
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(1957,38): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(1976,27): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(1982,38): warning C4244: 'return': conversión de 'LRESULT' a 'BOOL'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(1937,19): warning C4101: 'buffer': variable local sin referencia
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(2777,25): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(2799,25): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(2821,25): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(2843,25): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2575,23): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2586): message : Vea la referencia a la creación de una instancia de la función plantilla "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)" que se está compilando
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2586): message : Vea la referencia a la creación de una instancia de la función plantilla "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)" que se está compilando
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2566): message : Vea la referencia a la creación de una instancia de la función plantilla "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)" que se está compilando
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2566): message : Vea la referencia a la creación de una instancia de la función plantilla "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)" que se está compilando
+          with
+          [
+              _Iter=wchar_t *
+          ]
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(413): message : Vea la referencia a la creación de una instancia de la función plantilla "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)" que se está compilando
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(413): message : Vea la referencia a la creación de una instancia de la función plantilla "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)" que se está compilando
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+D:\edgar\Desktop\1ra Entrega\1ra Entrega.cpp(2223): warning C4715: 'BuscarCarnetBin': no todas las rutas de acceso de control devuelven un valor
+  1ra Entrega.vcxproj -> D:\edgar\Desktop\1ra Entrega\x64\Debug\1ra Entrega.exe

@@ -1,0 +1,2 @@
+﻿1ra Entrega.obj : error LNK2019: símbolo externo "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) sin resolver al que se hace referencia en la función "unsigned short __cdecl MyRegisterClass(struct HINSTANCE__ *)" (?MyRegisterClass@@YAGPAUHINSTANCE__@@@Z)
+D:\4to Semestre\EstDat\1ra Entrega\Debug\1ra Entrega.exe : fatal error LNK1120: 1 externos sin resolver
